@@ -8,4 +8,6 @@ The data shows the the average temperature deviation (deg C) from 1978 to 2023 o
 
 The tab panels control different tabs. The sidebar panels create the widegts. The main panels produce the output. 
 
+I spend around 10 hours on PS6.
+
 ### Shiny link:  https://btenes.shinyapps.io/INFO201-PS6-shiny-app/
